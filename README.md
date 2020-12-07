@@ -1,3 +1,3 @@
 # ColorMyViews
 Layouts
-A layout exercises!
+Layout exercises!
